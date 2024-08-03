@@ -1,3 +1,4 @@
 xgboost==1.4.2
 streamlit
 sklearn
+numpy==1.25.2
