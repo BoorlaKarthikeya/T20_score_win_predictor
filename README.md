@@ -12,15 +12,15 @@ Dataset: https://www.kaggle.com/veeralakrishna/cricsheet-a-retrosheet-for-cricke
 
 ## Features
 1. ### Winning Probability Prediction
-- **Description:** Uses logistic regression and XGBoost models to predict the winning probability of a T20 match.
-- **Accuracy:** Achieved a 93% accuracy rate.
-- **Enhancements:** Improved model precision by 20% through advanced feature engineering and data cleansing.
+  - **Description:** Uses logistic regression and XGBoost models to predict the winning probability of a T20 match.
+  - **Accuracy:** Achieved a 93% accuracy rate.
+  - **Enhancements:** Improved model precision by 20% through advanced feature engineering and data cleansing.
 2. ### Match Score Prediction
-- **Description:** Predicts the likely match score based on current game conditions.
+  - **Description:** Predicts the likely match score based on current game conditions.
 ## Technologies Used
-- **Libraries:** NumPy, pandas, scikit-learn, Streamlit
--  **Machine Learning Models:** Logistic Regression, XGBoost
-- **Data Processing:** Advanced feature engineering and data cleansing using Python libraries
+  - **Libraries:** NumPy, pandas, scikit-learn, Streamlit
+  -  **Machine Learning Models:** Logistic Regression, XGBoost
+  - **Data Processing:** Advanced feature engineering and data cleansing using Python libraries
 ## Demo
 
 - [**Demo Link**](https://t20-score-win-predictor-karthikeya.streamlit.app/)
